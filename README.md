@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prabhupanda
 - 👀 I’m interested in Data Science & Machine Learning.
-- 🌱 I’m currently learning Computer Vision and NLP
+- 🌱 I’m currently learning Computer Vision and NLP but am gonna be working as Market Analyst @ Futures First
 - 💞️ I’m looking to collaborate on kaggle Projects & Competitions mainly dealing with CNNs and Predicitve & Classifiaction Problems.
 - 📫 How to reach me you can reach me through my email :  prabhusantoshpanda@gmail.com
 
